@@ -1,39 +1,60 @@
-# Hi, I'm Sharique Shayan 👋
+# Sharique Shayan
 
-### BCA Graduate | Aspiring Cloud & DevOps Engineer
+BCA Graduate | Cloud & DevOps
 
-I'm building practical skills in Cloud and DevOps through hands-on labs, projects, and continuous learning.
+I am a BCA graduate building my career in Cloud and DevOps. I am currently developing practical skills through hands-on labs, coursework, and projects.
 
-### 🛠️ Technologies I'm Learning
+My current areas of focus include Linux, AWS, Docker, Kubernetes, Terraform, CI/CD, Bash scripting, and cloud infrastructure.
 
-- ☁️ AWS
-- 🐧 Linux
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🏗️ Terraform
-- 🔄 CI/CD
-- 🔧 Jenkins
-- 🐚 Bash / Shell Scripting
-- 🔀 Git & GitHub
-- 🐍 Python
+## Skills
 
-### 📚 Current Focus
-
+- Linux
+- AWS
+- Git & GitHub
+- Bash / Shell Scripting
 - Docker
 - Kubernetes
-- AWS Cloud
-- CI/CD
+- Terraform
+- Ansible
+- Jenkins
+- Python
+- SQL
+- Networking
+
+## Current Focus
+
+- AWS and cloud infrastructure
+- Docker and Kubernetes
 - Infrastructure as Code
-- DevOps projects
+- CI/CD
+- DevOps automation
+- Building practical projects
+- Interview preparation
 
-### 🚀 My Goal
+## Projects
 
-To build strong practical experience in Cloud & DevOps engineering and develop production-oriented projects.
+### Linux DevOps Labs
 
-### 📂 Featured Work
+Hands-on practice with Linux administration, Bash scripting, system monitoring, networking, permissions, processes, and automation.
 
-I'm currently building and documenting my Cloud & DevOps labs and projects here on GitHub.
+[View Repository](https://github.com/mohammadzaiyn-sketch/linux-devops-labs)
 
-### 🔗 Connect With Me
+### Jharkhand Khoj
 
-- [LinkedIn](https://www.linkedin.com/in/sharique-shayan-b6b328277/)
+A tourism-focused web project developed as part of Smart India Hackathon 2025.
+
+[View Project](https://jharkhoj.vercel.app)
+
+### Blood Bank Management System
+
+A college project for managing blood donors, blood inventory, and blood requests using a database.
+
+[View Project](https://blood-bank-application-51np.onrender.com)
+
+## Career Goal
+
+To start my career in Cloud and DevOps and develop strong practical experience in cloud infrastructure, automation, CI/CD, and containerized environments.
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/sharique-shayan-b6b328277
